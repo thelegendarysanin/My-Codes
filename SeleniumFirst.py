@@ -14,3 +14,4 @@ for i in reversed(list1):
 
 with open('File.txt', 'r') as r:
     r.read(5)
+    print("1")
