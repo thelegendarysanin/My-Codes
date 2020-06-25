@@ -11,3 +11,6 @@ list1= [1,2,3,4]
 
 for i in reversed(list1):
     print(i)
+
+with open('File.txt', 'r') as r:
+    r.read(5)
